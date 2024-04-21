@@ -11,7 +11,7 @@ body{
     border-radius: border-box;
 }
 .section {
-    width: 40%;
+    width: 60%;
     height: fit-content;
     border: solid;
 }
@@ -36,12 +36,12 @@ body{
     gap: 1%;
 }
 .text {
-    font-size: 120%;
+    font-size: 90%;
     font-weight: 200;
 }
 #msg{
     width: 100%;
-    height: 28vh;
+    height: fit-content;
     padding: 3%;
 }
 #countdown {
@@ -59,7 +59,7 @@ body{
 .tag{
     justify-content: center;
     width: 23%;
-    font-size: large;
+    font-size: 90%;
     height: 10vh;
     padding-top: 4%;
     border-radius: 10px;
